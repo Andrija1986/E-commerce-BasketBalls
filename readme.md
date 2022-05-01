@@ -6,8 +6,8 @@
 
 but in purpose to access my app here is protected env file:
 
-username: andrija
-password: 4567
+username: andrija;
+password: 4567;
 
 ## npm start
 
