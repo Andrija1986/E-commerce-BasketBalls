@@ -29,8 +29,9 @@ const Login = () => {
           Welcome to BasketBalls Shop
         </h3>
       </aside>
+      <div className="login">
       <ShowCard />
-      <section className='login-page'>
+      <div className='login-page'>
         <h2 className='login-form-h2'>Please enter your login details </h2>
         <form>
           <input
@@ -56,7 +57,8 @@ const Login = () => {
             <p>{error.error}</p>
           </aside>
         )}
-      </section>
+        </div>
+      </div>
     </main>
   )
 }

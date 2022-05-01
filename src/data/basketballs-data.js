@@ -93,7 +93,7 @@ export const basketballsData = [
         class: 'seventh',
     },
     {
-        id: 7, name: ' Baden', title: ' Baden', weight: ' 580-620', image: require('../assets/baden.jpg'), price: '69.99', about: "Founded in 1979, Baden Sports (pronounced BAH-den) is a 3rd generation family-owned sporting goods company located in Kent, WA, just 10 miles southeast of Seattle.Baden's first major innovation in sports was creating the women's sized basketball, becoming the first athletic ball manufacturer to produce the women's ball, adopted by the NCAA in 1984.",
+        id: 7, name: ' Baden', title: ' Baden', weight: ' 580-620', image: require('../assets/baden.png'), price: '69.99', about: "Founded in 1979, Baden Sports (pronounced BAH-den) is a 3rd generation family-owned sporting goods company located in Kent, WA, just 10 miles southeast of Seattle.Baden's first major innovation in sports was creating the women's sized basketball, becoming the first athletic ball manufacturer to produce the women's ball, adopted by the NCAA in 1984.",
         features: [
             'Premium composite leather',
             'Ultra- durable Z I / O cover',

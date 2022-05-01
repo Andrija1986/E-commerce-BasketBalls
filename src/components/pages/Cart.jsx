@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import MyContext from '../../context/MyContext'
 
 import Header from '../Header'
+import CheckoutAside from './CheckoutAside'
 
 import addToCart from '../../helpers/addToCart'
 import reduceOrder from '../../helpers/reduceOrder'
@@ -64,6 +65,7 @@ const Cart = () => {
     <main>
       <Header />
       <section className='cart-page'>{ballList}</section>
+      <CheckoutAside/>
     </main>
   )
 }
